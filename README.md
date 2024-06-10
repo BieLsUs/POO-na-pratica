@@ -1,4 +1,4 @@
-# Desafio: Aprenda na Prática Programação Orientada a Objetos
+# Desafio-DIO: Aprenda na Prática Programação Orientada a Objetos
 
 <h2> 📚 Paradigma de Programação Orientado a Objetos (POO) </h2>
 
